@@ -1,0 +1,1 @@
+[Explode KATA](https://www.codewars.com/kata/57eb936de1051801d500008a/train/javascript)
